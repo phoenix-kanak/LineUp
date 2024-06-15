@@ -11,7 +11,7 @@ Participate in an exciting challenge to ascend the leaderboard by scanning QR co
 </div>
 <br>
 <div align="center">
-  <img src="[https://github.com/phoenix-kanak/Lineup/assets/132151345/3e082cde-9ad8-4d60-b2da-594e0fdbf55e](https://github.com/phoenix-kanak/LineUp/blob/kanak/WhatsApp%20Image%202024-04-23%20at%2000.40.26.jpeg)" width="100" height="200">
+  <img src="kanak/WhatsApp%20Image%202024-03-31%20at%2023.02.26.jpeg" width="350" title="hover text">
   <img src="https://github.com/phoenix-kanak/Lineup/assets/132151345/a7eb4582-6402-45b6-9adc-7efe6a3f192b" width="100" height="200">
   <img src="https://github.com/phoenix-kanak/Lineup/assets/132151345/877bbb7f-a5c2-4b8b-ac9c-e01bc27c9c05" width="100" height="200">
   <img src="https://github.com/phoenix-kanak/Lineup/assets/132151345/085fedf7-7ccf-4b94-b407-f578e0f8b07e" width="100" height="200">
