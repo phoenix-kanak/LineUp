@@ -1,4 +1,4 @@
-![image](https://github.com/phoenix-kanak/LineUp/assets/132151345/9d51c432-b13e-42ad-8cc6-da852675d7f2)# LineUp ⚡ 
+# LineUp ⚡ 
 
 Participate in an exciting challenge to ascend the leaderboard by scanning QR codes of nearby players in a thrilling real-life gaming adventure.
 
@@ -13,8 +13,8 @@ Participate in an exciting challenge to ascend the leaderboard by scanning QR co
 <div align="center">
   <img src="https://github.com/phoenix-kanak/LineUp/blob/kanak/app/src/main/res/drawable/5.jpeg?raw=true" width="100" height="200">
   <img src="https://github.com/phoenix-kanak/LineUp/blob/kanak/app/src/main/res/drawable/6.jpeg?raw=true" width="100" height="200">
-  <img src="https://github.com/phoenix-kanak/LineUp/blob/kanak/app/src/main/res/drawable/7.jpeg?raw=true" width="100" height="200">
-  <img src="https://github.com/phoenix-kanak/LineUp/blob/kanak/app/src/main/res/drawable/8.jpeg?raw=true" width="100" height="200">
+  <img src="https://github.com/phoenix-kanak/LineUp/blob/kanak/app/src/main/res/drawable/7.png?raw=true" width="100" height="200">
+  <img src="https://github.com/phoenix-kanak/LineUp/blob/kanak/app/src/main/res/drawable/8.png?raw=true" width="100" height="200">
 </div>
 
 
