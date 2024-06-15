@@ -17,8 +17,6 @@ Participate in an exciting challenge to ascend the leaderboard by scanning QR co
   <img src="https://github.com/phoenix-kanak/Lineup/assets/132151345/085fedf7-7ccf-4b94-b407-f578e0f8b07e" width="100" height="200">
 </div>
 
-![image](https://github.com/phoenix-kanak/LineUp/assets/132151345/11ddd32e-8099-47ac-bd82-fa0a90dc11a2)
-
 
 ## ❤️ How to play
 - You just have a single QR code
